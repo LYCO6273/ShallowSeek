@@ -1,0 +1,15 @@
+[theme]
+# 主色调
+primaryColor = "#FB7299"
+
+# 背景色
+backgroundColor = "#FFFFFF"
+
+# 次背景色
+secondaryBackgroundColor = "#F6F7F8"
+
+# 文字颜色：深灰色，保证对比度
+textColor = "#18191C"
+
+# 字体：可选，默认字体即可；如需指定可使用 font
+# font = "sans serif"
